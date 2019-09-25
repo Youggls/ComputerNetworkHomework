@@ -6,4 +6,8 @@
 
 ## wireshark lab2
 
-[wireshark lab1](./lab2/lab2.md)
+[wireshark lab2](./lab2/lab2.md)
+
+## wireshark lab3
+
+[wireshark lab3](./lab3/lab3.md)
