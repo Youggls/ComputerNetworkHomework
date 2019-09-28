@@ -11,3 +11,7 @@
 ## wireshark lab3
 
 [wireshark lab3](./lab3/lab3.md)
+
+## wireshark lab4
+
+[wireshark lab4](./lab4/lab4.md)
