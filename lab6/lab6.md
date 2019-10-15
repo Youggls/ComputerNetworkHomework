@@ -92,6 +92,6 @@
 
 14. 3个
 
-    ![image](./image/Q14-1.jpg)
+    ![image](./images/Q14-1.jpg)
 
 15. 同13
