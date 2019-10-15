@@ -20,6 +20,10 @@
 
 [wireshark lab5](./lab5/lab5.md)
 
+## wireshark lab6
+
+[wireshark lab6](./lab6/lab6.md)
+
 ## webserver
 
 [web server](./webserver/webserver.md)
