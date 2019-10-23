@@ -24,6 +24,12 @@
 
 [wireshark lab6](./lab6/lab6.md)
 
+## wireshar lab7
+
+[wireshark lab7](./lab7/lab7.md)
+
 ## webserver
 
 [web server](./webserver/webserver.md)
+
+## proxy server
